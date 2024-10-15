@@ -30,7 +30,7 @@ Contribuições são bem-vindas! Se você deseja colaborar com melhorias no site
 5. Abra um **Pull Request**.
 
 [!NOTE]
- | Vsim
+Vsim
 
 ## Como Reportar Problemas
 
