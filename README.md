@@ -1,5 +1,9 @@
 # Akira Books - Site Oficial
 
+> [!NOTE]
+> O site ainda está em desenvolvimento e em fase de testes. Algumas funcionalidades podem não estar completamente implementadas ou estáveis. Estamos trabalhando continuamente para aprimorar a plataforma e corrigir quaisquer problemas. Agradecemos pela sua paciência e feedback durante essa fase.
+
+
 Bem-vindo ao repositório do site oficial do Akira Books! Este projeto faz parte da Akira Enterprise e tem como objetivo oferecer uma plataforma onde os usuários podem explorar e descobrir livros incríveis.
 
 ## Sobre o Projeto
@@ -29,8 +33,7 @@ Contribuições são bem-vindas! Se você deseja colaborar com melhorias no site
 4. Envie para a branch principal: `git push origin minha-nova-feature`.
 5. Abra um **Pull Request**.
 
-> [!NOTE] 
-> a
+
 
 ## Como Reportar Problemas
 
